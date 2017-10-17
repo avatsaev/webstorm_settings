@@ -1,0 +1,41 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>XML</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v8.6.0/bin/node" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

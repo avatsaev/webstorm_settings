@@ -4,6 +4,7 @@
       <mapping pattern="crypto-widget" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="webapp" type="PLAIN_TEXT" />
+      <mapping pattern="WidgetComponent" type="TypeScript" />
     </extensionMap>
   </component>
 </application>

@@ -4,6 +4,7 @@
       <mapping pattern="low-latency-streamer-utils" type="PLAIN_TEXT" />
       <mapping pattern="crypto-widget" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="webapp" type="PLAIN_TEXT" />
       <mapping pattern="WidgetComponent" type="TypeScript" />
     </extensionMap>

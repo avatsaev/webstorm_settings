@@ -8,6 +8,7 @@
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="webapp" type="PLAIN_TEXT" />
       <mapping pattern="WidgetComponent" type="TypeScript" />
+      <mapping ext="mpd" type="XML" />
     </extensionMap>
   </component>
 </application>

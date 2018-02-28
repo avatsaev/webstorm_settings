@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.effects.ts" type="PLAIN_TEXT" />
       <mapping pattern="low-latency-streamer-utils" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="crypto-widget" type="PLAIN_TEXT" />

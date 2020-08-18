@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="WS-202.6397.88" />
+    <option name="LAST_TIME_CHECKED" value="1597767344151" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/nightly/8182" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

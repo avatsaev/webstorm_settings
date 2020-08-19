@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.graphql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +19,7 @@
     <mask>webpack.config.js</mask>
     <mask>*.graphql.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.graphql</mask>
     <mask>*.ts</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>

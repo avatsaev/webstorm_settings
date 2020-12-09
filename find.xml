@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.graphql" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,8 +16,8 @@
     <mask>webpack.config.js</mask>
     <mask>*.graphql.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.graphql</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>

@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="$" value="var(--$END$)" description="" toReformat="false" toShortenFQNames="true">
+  <template name="$" value="var(--$END$)" shortcut="SPACE" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_PROPERTY_VALUE" value="true" />
     </context>

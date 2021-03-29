@@ -1,0 +1,7 @@
+<templateSet group="HTML/XML">
+  <template name="icon" value="&lt;i class=&quot;icon-$END$&quot;&gt;&lt;/i&gt;" shortcut="SPACE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
